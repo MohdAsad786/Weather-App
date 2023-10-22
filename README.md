@@ -1,4 +1,4 @@
-# Weather-App
+# Weather-App using HTML,CSS,JavaScript, and using external api 
 ## Output
 1.
 ![Screenshot (1182)](https://github.com/MohdAsad786/Weather-App/assets/124057774/f94c33b3-24c3-416f-bf7d-da212b019231)
